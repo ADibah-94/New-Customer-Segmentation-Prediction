@@ -10,6 +10,6 @@ new_customer_deploy.py is a script for deployment.
 new_customer_module.py is a script for module.
 
 # Credits
-Shoutout to ABISHEK SUDARSHAN for the data
+Shoutout to ABISHEK SUDARSHAN for the data.
 Checkout his page at 
 https://www.kaggle.com/datasets/abisheksudarshan/customer-segmentation
